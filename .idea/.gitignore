@@ -1,0 +1,16 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+argocd.iml
+# IntelliJ IDEA files
+.idea/
+
+# Compiled Java classes
+*.class
+
+# Logs
+*.log
+/k8s.iml
+/misc.xml
+/modules.xml
+/vcs.xml
